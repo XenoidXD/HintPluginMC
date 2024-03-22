@@ -1,7 +1,6 @@
 # HintPluginMC
 A plugin where the server can send messages in every minute interval. Minutes and messages can be customized and there can be more than 1 message.
 Free plugin. You can take it for free without any demands, whether for private or commercial servers
-# HintPluginMC
 
 # How to Use
 1. Copy the source code from main.java
@@ -14,5 +13,5 @@ or you can download it
 
 
 If you have questions or suggestions or want to report a bug. You can contact the email xenoidpersonal@gmail.com
-You can also create your custom plugin by contacting email or discord.com/users/757223878157402203. Of course it's not free
+You can also create your custom plugin by contacting email or www.discord.com/users/757223878157402203 Of course it's not free
 # Made by Xenoid
